@@ -1,13 +1,17 @@
 html{
-    background-color: rgb(50, 62, 231);
+    background-color: rgb(93, 223, 246);
 }
 
 h1
 {
+    text-align: center;
+    padding-left: 50px;
     color: rgb(217, 69, 104);
 }
 h2
 {
+    text-align: center;
+    padding-right: 50px;
     font-style: italic;
-    color: black;
+    color: rgb(255, 255, 255);
 }
