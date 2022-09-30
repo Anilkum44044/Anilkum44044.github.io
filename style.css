@@ -8,7 +8,7 @@ h1
     padding-left: 50px;
     color: rgb(217, 69, 104);
 }
-h2
+h4
 {
     text-align: center;
     padding-right: 50px;
@@ -19,4 +19,6 @@ h2
 table
 {
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
